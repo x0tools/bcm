@@ -26,13 +26,18 @@
 - **<font face="微软雅黑" color=#87D0FF>Python</font>** <font size=3>是一种跨平台的计算机程序设计语言</font>
 <!-- slide -->
 
-## 我们一些成果
+## 我们的一些成果
 
 <!-- slide vertical=true -->
 
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
-  - 我的个人主页使用的主题样式，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
+- **<a href="https://bbs.125.la/forum.php?mod=viewthread&tid=14519932&page=1&ordertype=1#pid19148750"  target="_blank">编程猫FD插件</a>** 基于FD开发的JS逆向插件
 
+- **<a href="https://bbs.125.la/forum.php?mod=viewthread&tid=14519932&page=1&ordertype=1#pid19148750"  target="_blank">Equickjs</a>** 为易语言封装quickjs超小js引擎
+
+- **滑块研究**
+  - 滑块成品： 极验/网易/V5/顶象/百度旋转
+
+- **JsDebugger** 基于谷歌开发者扩展的JS调试工具
 <!-- slide -->
 
 ## 我的一些成就
