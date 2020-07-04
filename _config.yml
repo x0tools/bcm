@@ -200,7 +200,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   font-weight: bold;
                 }
               </style>
-            - | #修复行内图片默认样式
+            - | # 修复行内图片默认样式
               <style>
                 img {
                   display: inline-block;
@@ -224,6 +224,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background: Black;
                 }
               </style>
+            - | # 扩展MD超链接
+              <script>
+                var aTagArr = [].slice.apply(document.getElementsByTagName("a"));
+                aTagArr.forEach(function (e, i) {
+                e.href.indexOf("_blank") > -1 ? e.target = "_blank" : null;
+                });
+              </script>
           sidebar: # 此配置项下是一些关于侧边栏的配置
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
