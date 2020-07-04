@@ -1,9 +1,9 @@
 title: 编程猫博客 
 
 description: |
-  SYSU超算17级在读<br/>
-  永远喜欢水野爱<br/>
-  田宫例四驱车<br/>
+  为编程而生<br/>
+  你喜欢萝莉吗？<br/>
+  或者御姐？<br/>
   ASC<br/>
   <a href="1258586900@qq.cn" target="_blank">
     <i class="fas fa-envelope" target="_blank"></i>
@@ -74,7 +74,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 用js引入fontawesome图标样式，功能更丰富
               <script
                 async="async"
-                src="http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+                src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/js/all.min.js"
               ></script>
             - | # 引入live2d看板娘！不需要可以把这一项都删掉
               <link
