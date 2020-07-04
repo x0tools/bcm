@@ -18,11 +18,12 @@
 
 ## 我们主要使用的编程语言
 <!-- slide vertical=true -->
-- **易语言**（EPL）是一门以中文作为程序代码编程语言
-- **C Sharp**是微软公司发布的一种由C和C++衍生出来的面向对象的编程语言
-- **JavaScript**（简称“JS”） 是一种具有函数优先的轻量级，解释型或即时编译型的高级编程语言
-  - **Node.js** 是一个基于 Chrome V8 引擎的 JavaScript 运行环境
-- Python是一种跨平台的计算机程序设计语言
+
+- **<font face="微软雅黑" color=Blue>易语言</font>** <font size=2> 一门中文编程语言</font>>
+- **<font face="微软雅黑" color=Blue>C Sharp</font>**  <font size=2>微软公司发布的面向对象的编程语言</font>>
+- **<font face="微软雅黑" color=Blue>JavaScript</font>**（简称“JS”）</font>>
+  - **Node.js** <font size=2>是一个 JavaScript 运行环境</font>>
+- **<font face="微软雅黑" color=Blue>Python</font>** <font size=2>是一种跨平台的计算机程序设计语言</font>>
 <!-- slide -->
 
 ## 我们一些成果
