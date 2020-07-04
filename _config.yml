@@ -26,7 +26,7 @@ description: |
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://x0tools.github.io/bcm # 你的域名，例如 https://wu-kan.github.io
+url: https://x0tools.github.io/ # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
@@ -105,7 +105,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       "hidden": true,
                       "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                       "content": {
-                        "link": ["https:\/\/x0tools.github.io/bcm"],
+                        "link": ["https:\/\/x0tools.github.io/"],
                         "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
                         "hidden": true,
                         "custom": [{
@@ -232,15 +232,15 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
-                href: /bcm
+                href: /
               - title: '<i class="fas fa-comments fa-fw"></i> 留言'
-                href: /bcm/comments/
+                href: /comments/
               - title: '<i class="fas fa-tags fa-fw"></i> 标签'
-                href: /bcm/tags/
+                href: /tags/
               - title: '<i class="fas fa-archive fa-fw"></i> 归档'
-                href: /bcm/archive/
+                href: /archive/
               #- title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
-               # href: /bcm/merger/
+               # href: /merger/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
               full_text_search: false # 可能导致缓慢的搜索和加载
