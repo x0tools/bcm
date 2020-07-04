@@ -1,5 +1,5 @@
 
-# [编程喵]()
+<font color=#86CCFF size="7">编程喵
 
 欢迎访问编程喵の博客！下面向你介绍一下我们群吧~
 
@@ -7,8 +7,7 @@
 
 ## 如何加入我们
 
-- QQ群: <a href="http://write.blog.csdn.net/postlist"  target="_blank">747776374(点击立马加入)</a>
-- QQ群: [747776374(点击立马加入)](https://jq.qq.com/?_wv=1027&k=eLPQInXj?_blank)
+- QQ群: <a href="https://jq.qq.com/?_wv=1027&k=eLPQInXj"  target="_blank">747776374(点击立马加入)</a>
 <!-- slide vertical=true -->
 
 ## 我们主要研究领域
