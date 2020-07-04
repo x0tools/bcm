@@ -1,5 +1,5 @@
 
-# <font  color=#87D0FF>编程喵</font>
+# #1589F0编程喵</font>
 
 欢迎访问编程喵の博客！下面向你介绍一下我们群吧~
 
@@ -7,7 +7,7 @@
 
 ## 如何加入我们
 
-- QQ群: **[747776374(点击立马加入)][b]**[b]:https://jq.qq.com/?_wv=1027&k=eLPQInXj
+- QQ群: **[747776374(点击立马加入)](https://jq.qq.com/?_wv=1027&k=eLPQInXj)
 
 <!-- slide vertical=true -->
 
