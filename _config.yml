@@ -5,20 +5,17 @@ description: |
   永远喜欢水野爱<br/>
   田宫例四驱车<br/>
   ASC<br/>
-  <a href="mailto:i@wu-kan.cn">
-    <i class="fas fa-envelope"></i>
+  <a href="1258586900@qq.cn" target="_blank">
+    <i class="fas fa-envelope" target="_blank"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/x0tools" target="_blank">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
-    <i class="fas fa-chart-bar"></i>
+  <a href="tencent://message/?uin=1258586900" target="_blank">
+    <i class="fas fa-qq"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fas fa-smile"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
-    <i class="fab fa-zhihu"></i>
+  <a href="https://space.bilibili.com/38940666" target="_blank">
+    <i class="fab fa-youtube-play"></i>
   </a>
   <iframe
     src="https://music.163.com/outchain/player?type=2&id=1427487288&auto=1&height=32"
@@ -108,7 +105,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       "hidden": true,
                       "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                       "content": {
-                        "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
+                        "link": ["https:\/\/x0tools.github.io/bcm"],
                         "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
                         "hidden": true,
                         "custom": [{
@@ -402,32 +399,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     async='async'
                   ></script>
                 </div>
-              - | # 觉得我的主题好用的话，让更多的人知道它吧！
-                <div>
-                  <i class="fas fa-thumbs-up fa-fw"></i>
-                  <a href="https://jekyll-theme-WuK.wu-kan.cn">
-                    jekyll-theme-WuK
-                  </a>
-                </div>
-              - | # Copyright声明
-                <div>
-                  <i class="fas fa-copyright fa-fw"></i>
-                  2017-2020 WuK
-                </div>
-              - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
-                <div>
-                  <i class="fas fa-info-circle fa-fw"></i>
-                  <a href="http://beian.miit.gov.cn">
-                    粤ICP备 20024947号
-                  </a>
-                </div>
-              - | # 公安网备信息
-                <div>
-                  <img src="http://www.beian.gov.cn/img/new/gongan.png" class="fa-fw"></img>
-                  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34070202000407">
-                    皖公网安备 34070202000407号
-                  </a>
-                </div>
             wordcount: # 全站字数统计
               enable: false # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
               prepend: <i class="fas fa-user-edit fa-fw"></i>
@@ -598,7 +569,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             （除特别声明或转载文章外）
         tags:
           pie_chart: # 显示一个标签的饼状统计图，需要引入 mermaid
-            enable: true
+            enable: false
           count: true # 统计每个标签下文章的数量
           toc: # 在正文里显示一个标签的目录
             enable: false
