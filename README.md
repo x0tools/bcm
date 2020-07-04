@@ -7,7 +7,7 @@
 
 ## 如何加入我们
 
-- QQ群: [747776374(点击立马加入)](https://jq.qq.com/?_wv=1027&k=eLPQInXj)
+- QQ群: [747776374(点击立马加入)](https://jq.qq.com/?_wv=1027&k=eLPQInXj?_blank)
 <!-- slide vertical=true -->
 
 ## 我们主要研究领域
