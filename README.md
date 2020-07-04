@@ -16,6 +16,8 @@
 - JavaScript逆向技术
 - 逆向工具开发
 
+<!-- slide vertical=true -->
+
 ## 我们主要使用的编程语言
 <!-- slide vertical=true -->
 
