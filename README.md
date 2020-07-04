@@ -4,31 +4,23 @@
 
 <!-- slide -->
 
-## 我们的一些联系方式
+## 如何加入我们
 
-- Email: **1258586900@qq.com**
-- QQ-Group: **747776374**
+- QQ群: **747776374**
 
-<!-- slide vertical=true 
-- E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
--->
 <!-- slide -->
 
-## 我的一些教育情况
+## 我们主要研究领域
+- 网络(爬虫/反爬虫)技术
+- JavaScript逆向技术
 
 <!-- slide vertical=true -->
-
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
-
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
-
+- 我们主要使用的编程语言
+  - **易语言**（EPL）是一门以中文作为程序代码编程语言
+  - **C Sharp**是微软公司发布的一种由C和C++衍生出来的面向对象的编程语言
+  - **JavaScript**（简称“JS”） 是一种具有函数优先的轻量级，解释型或即时编译型的高级编程语言
+    - **Node.js** 是一个基于 Chrome V8 引擎的 JavaScript 运行环境
+  - Python是一种跨平台的计算机程序设计语言
 <!-- slide -->
 
 ## 我的一些项目成果
