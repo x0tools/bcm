@@ -7,6 +7,7 @@
 
 ## 如何加入我们
 
+- QQ群: <a href="http://write.blog.csdn.net/postlist"  target="_blank">747776374(点击立马加入)</a>
 - QQ群: [747776374(点击立马加入)](https://jq.qq.com/?_wv=1027&k=eLPQInXj?_blank)
 <!-- slide vertical=true -->
 
