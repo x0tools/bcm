@@ -32,7 +32,7 @@
 
 - **<a href="https://bbs.125.la/forum.php?mod=viewthread&tid=14519932&page=1&ordertype=1#pid19148750"  target="_blank">编程猫FD插件</a>** 基于FD开发的JS逆向插件
 
-- **<a href="https://bbs.125.la/forum.php?mod=viewthread&tid=14519932&page=1&ordertype=1#pid19148750"  target="_blank">Equickjs</a>** 为易语言封装quickjs超小js引擎
+- **<a href="https://bbs.125.la/forum.php?mod=viewthread&tid=14574774"  target="_blank">Equickjs</a>** 为易语言封装quickjs超小js引擎
 
 - **滑块研究**
   - 滑块成品： 极验/网易/V5/顶象/百度旋转
