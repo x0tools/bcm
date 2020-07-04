@@ -1,5 +1,5 @@
 
-<font color=#86CCFF size=7>编程喵</font>
+<h1><font color=#86CCFF >编程喵</font></h1>
 
 欢迎访问编程喵の博客！下面向你介绍一下我们群吧~
 
